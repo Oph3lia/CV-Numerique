@@ -1,0 +1,189 @@
+<!DOCTYPE CSS>
+.test{
+
+}
+h2{
+	color: lightskyblue;
+	font-size: 20px;
+	font-weight: normal;
+	text-align: center;
+}
+h3{
+	color:black;
+}
+body{
+	margin:0px;
+}
+p{
+	margin:0%;
+	font-weight: normal;
+	font-family: "Comic Sans MS","Comic Sans",cursive;
+	font-size:14px;
+	line-height: 14px;
+}
+strong{
+	border-bottom: 1px solid;
+}
+footer{
+	margin-top:2%;
+	height:80px;
+	padding-top:30px;
+	text-align: center;
+	background-color: whitesmoke;
+	border-spacing: 2px solid;
+}
+nav ul{
+	justify-content: center;
+	padding: 10px 20px;
+	margin: 0px;
+	padding: Opx;
+}
+li{
+	font-family: "Comic Sans MS","Comic Sans",cursive;
+	font-size: 20px;
+	display:inline;
+}
+nav li{
+	flex:0.1 auto;
+	list-style-type: none;
+	float: left;
+}
+ul{
+	display:flex;
+}
+nav{
+	width: 100%;
+	background-color: lightseagreen;
+	min-height: 15%;
+}
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	padding: 10px 20px;
+	text-transform: uppercase;
+}
+progress::-moz-progress-bar{
+	width: 35%;
+	background:lightskyblue;
+	border-top-left-radius: 20%;
+	border-bottom-left-radius: 20%;
+}
+progress{
+	background-color: white;
+	border-radius: 20%;
+}
+.table{
+	display: table;
+	margin: 0 auto;
+	min-height: 20%;
+	max-width: 100%;
+}
+.menu-presentation:hover{
+	background-color: lightblue;
+	color:white;
+	transition: 0.6s;
+	border-radius: 5px;
+}
+.menu-presentation{
+	margin-left:4%;
+}
+.menu-formation:hover{
+	background-color: lightblue;
+	color:white;
+	transition: 0.6s;
+	border-radius: 8px;
+}
+.menu-formation{
+	margin-left:4.5%;
+}
+.menu-experiences:hover{
+	background-color: lightblue;
+	color:white;
+	transition: 0.6s;
+	border-radius: 8px;
+}
+.menu-experiences{
+	margin-left:4.5%;
+	margin-right: 4.5%;
+}
+.menu-contact:hover{
+	background-color: lightblue;
+	color:white;
+	transition: 0.6s;
+	border-radius: 5px;
+}
+.menu-competences:hover{
+	background-color: lightblue;
+	color:white;
+	transition: 0.6s;
+	border-radius: 5px;
+}
+.menu-competences{
+	margin-left: 4.5px;
+	margin-right: 4.5px;
+}
+.menu-contact{
+	margin-left:4.5%;
+	margin-right: 4%;
+}
+.table1{
+	display: table;
+	margin: 0 auto;
+	min-height: 20%;
+	background-color: lavender;
+}
+.titre{
+	margin:0%;
+	border-bottom: 1px solid;
+	font-size:1.17em;
+}
+.header{
+	min-width: fit-content;
+	min-width: -moz-fit-content;
+	vertical-align:center;
+	border-bottom: 1px solid;
+	font-size:16px;
+	color:lightskyblue;
+}
+.accueil{
+	margin-top:1%;
+	margin-left:3%;
+	text-align: center;
+}
+.sidenav{
+	border-radius:50%;
+	margin-top:1%;
+	margin-left:3%;
+	width:25%;
+	height: 100%;
+}
+.menuZoom{
+	width:75%;
+}
+.styleimage{
+	border-radius:5% !important;
+	width:80% !important;
+	height: 40% !important;
+}
+.stylelogo{
+	margin-left: 50%;
+	vertical-align:bottom;
+	width:5%;
+}
+.sous-titre{
+	display:flex;
+}
+.alignimage{
+	height:10px;
+	width:-webkit-fill-available;
+	width:-moz-available;
+	text-align: end;
+	margin-right: 2%;
+}
+.detailsexperiences{
+	margin-bottom: 2%;
+}
+.contenus{
+	min-width: 75% !important;
+	display:flex !important;
+}
